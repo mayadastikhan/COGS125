@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/COGS125/static/css/main.1eb42af0.chunk.css",
-    "main.js": "/COGS125/static/js/main.b1197546.chunk.js",
-    "main.js.map": "/COGS125/static/js/main.b1197546.chunk.js.map",
+    "main.js": "/COGS125/static/js/main.70570c43.chunk.js",
+    "main.js.map": "/COGS125/static/js/main.70570c43.chunk.js.map",
     "runtime~main.js": "/COGS125/static/js/runtime~main.94ad87e4.js",
     "runtime~main.js.map": "/COGS125/static/js/runtime~main.94ad87e4.js.map",
-    "static/js/2.3f0f6595.chunk.js": "/COGS125/static/js/2.3f0f6595.chunk.js",
-    "static/js/2.3f0f6595.chunk.js.map": "/COGS125/static/js/2.3f0f6595.chunk.js.map",
+    "static/js/2.9f74d431.chunk.js": "/COGS125/static/js/2.9f74d431.chunk.js",
+    "static/js/2.9f74d431.chunk.js.map": "/COGS125/static/js/2.9f74d431.chunk.js.map",
     "static/js/3.177faaa1.chunk.js": "/COGS125/static/js/3.177faaa1.chunk.js",
     "static/js/3.177faaa1.chunk.js.map": "/COGS125/static/js/3.177faaa1.chunk.js.map",
     "index.html": "/COGS125/index.html",
-    "precache-manifest.711d7b13e3b500e2ac42975232ed76ba.js": "/COGS125/precache-manifest.711d7b13e3b500e2ac42975232ed76ba.js",
+    "precache-manifest.592316deccd93d2628608964d0e6f78a.js": "/COGS125/precache-manifest.592316deccd93d2628608964d0e6f78a.js",
     "service-worker.js": "/COGS125/service-worker.js",
     "static/css/main.1eb42af0.chunk.css.map": "/COGS125/static/css/main.1eb42af0.chunk.css.map"
   }
